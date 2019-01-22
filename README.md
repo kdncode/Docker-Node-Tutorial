@@ -6,6 +6,8 @@ Using Volumes And Nodemon.
 ## Usage
 
 ```
+git clone https://github.com/kdncode/docker-node-tutorial.git
+
 cd docker-node-tutorial/
 
 docker run -p 3001:3000 -v $(pwd):/app docker-node-tutorial
