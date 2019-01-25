@@ -16,7 +16,7 @@ docker run -p 3001:3000 -v $(pwd):/app docker-node-tutorial
 Navigate to: [http://localhost:3001](http://localhost:3001)
 
 # Step by step
-## Installation
+## Install
 
 ```
 npm install
